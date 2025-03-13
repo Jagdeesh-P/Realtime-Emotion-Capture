@@ -6,6 +6,9 @@ A real-time emotion detection application using a deep learning model to analyze
 
 This project utilizes a Convolutional Neural Network (CNN) model to detect emotions from video frames captured by the user's webcam. The application provides real-time feedback on the detected emotions, including statistics such as faces detected, processing time, and a history log of emotions.
 
+### **Home Page**
+![Home Page](home.png)
+
 ## Features
 
 - **Real-Time Emotion Detection:** Analyzes facial expressions in real-time using a trained CNN model.
