@@ -1,4 +1,4 @@
-# Realtime-Emotion-Capture
+# *Realtime Emotion Capture*
 
 A real-time emotion detection application using a deep learning model to analyze facial expressions and provide emotion statistics.
 
