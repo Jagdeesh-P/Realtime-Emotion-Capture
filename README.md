@@ -1,10 +1,16 @@
 # *Realtime Emotion Capture*
 
-A real-time emotion detection application using a deep learning model to analyze facial expressions and provide emotion statistics.
+A real-time emotion detection application using a deep learning model to analyze facial expressions and provide emotion statistics. 
 
 ## Overview
 
 This project utilizes a Convolutional Neural Network (CNN) model to detect emotions from video frames captured by the user's webcam. The application provides real-time feedback on the detected emotions, including statistics such as faces detected, processing time, and a history log of emotions.
+
+## Dataset Description
+
+FER - 2013 dataset with 7 emotion types
+The dataset contain 35,685 examples of 48x48 pixel gray scale images of faces divided into train and test dataset. Images are categorized based on the emotion shown in the facial expressions (happiness, neutral, sadness, anger, surprise, disgust, fear).
+Dataset Link: https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
 
 ## Features
 
